@@ -117,6 +117,7 @@ plt.show()
 ### Results
 
 ![Trending Top Skills for Data Analysts in the US](3_Project\images\top_skill_demand_image.png)
+
 *Bar graph Visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
@@ -148,6 +149,7 @@ plt.show()
 
 
 ![Salary Distributions of Data Jobs in the US](3_Project\images\Salary_Distributions_in_the_US.png)
+
 *Box plot visualizing the salary distributions for the top 6 Data Jobs title.*
 
 
@@ -195,6 +197,7 @@ plt.tight_layout()
 plt.show()
 ```
 ![the highest paid & Most in demand Skills for Data Analysts in the US](3_Project\images\top10_paying_skills.png)
+
 *Two separate Bar graphs visualizing the highest paid skills and most in-demand skills for Data Analyst in the US.* 
 
 ### Insights 
@@ -237,6 +240,7 @@ adjust_text(texts, arrowprops=dict(arrowstyle='->', color='gray'))
 plt.show()
 ```
 ![Most optimal skill for Data Analysts in the US](3_Project\images\Most_optimal_skill_for_Data_Analyst.png)
+
 *A scatter plot visualizing the most optimal skills ( high paying & high demand) for data analysts in the US*
 
 ### Insights:
