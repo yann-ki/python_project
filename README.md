@@ -75,7 +75,7 @@ plt.show()
 
 ### Results 
 
-![Vizualization of top skills for Data Nerd](3_Project\images\skill_demand_all_data_roles.png)
+![Vizualization of top skills for Data Nerd](3_Project/images/skill_demand_all_data_roles.png)
 
  ### Insights 
 
@@ -116,8 +116,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](3_Project\images\top_skill_demand_image.png)
-
+![Trending Top Skills for Data Analysts in the US](3_Project/images/top_skill_demand_image.png)
 *Bar graph Visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
@@ -148,7 +147,7 @@ plt.show()
 ```
 
 
-![Salary Distributions of Data Jobs in the US](3_Project\images\Salary_Distributions_in_the_US.png)
+![Salary Distributions of Data Jobs in the US](3_Project/images/Salary_Distributions_in_the_US.png)
 
 *Box plot visualizing the salary distributions for the top 6 Data Jobs title.*
 
@@ -196,7 +195,7 @@ ax[1].legend().remove()
 plt.tight_layout()
 plt.show()
 ```
-![the highest paid & Most in demand Skills for Data Analysts in the US](3_Project\images\top10_paying_skills.png)
+![the highest paid & Most in demand Skills for Data Analysts in the US](3_Project/images/top10_paying_skills.png)
 
 *Two separate Bar graphs visualizing the highest paid skills and most in-demand skills for Data Analyst in the US.* 
 
@@ -239,7 +238,7 @@ adjust_text(texts, arrowprops=dict(arrowstyle='->', color='gray'))
 
 plt.show()
 ```
-![Most optimal skill for Data Analysts in the US](3_Project\images\Most_optimal_skill_for_Data_Analyst.png)
+![Most optimal skill for Data Analysts in the US](3_Project/images/Most_optimal_skill_for_Data_Analyst.png)
 
 *A scatter plot visualizing the most optimal skills ( high paying & high demand) for data analysts in the US*
 
@@ -281,4 +280,9 @@ Throughout this project, I gained valuable insights into the field of data analy
 
 # Conclusion
 This project has been an enriching journey into the world of data analytics. By analyzing job market trends and salary distributions, I gained a deeper understanding of the skills that are most valuable for Data Analysts. Foundational skills like SQL and Python remain critical for success, while specialized skills like AWS and Spark offer opportunities for higher earnings. The ability to analyze data, visualize trends, and draw actionable insights is not only a technical skill but also a strategic advantage in the competitive job market. This project has solidified my passion for data analytics and prepared me for the challenges and opportunities ahead in this exciting field.
+
+
+
+
+
 
